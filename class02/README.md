@@ -38,8 +38,8 @@
 | 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 06 Anjonghyeon ( jhjjjhhh) | n/a | - | - | - | - | litcoder |
-| 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | litcoder |
+| 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | litcoder |
 | 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | litcoder |
 | 09 LimSeonWoong (lim9507) | n/a | - | - | - | - | litcoder |
 | 10 KimYongchul (yonggarigari) | n/a | - | - | - | - | litcoder |

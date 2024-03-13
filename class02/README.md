@@ -34,7 +34,7 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 KimDarin (KimDarin) | n/a | - | - | - | - | litcoder |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | litcoder |
 | 03 changdonghyuk (abcde) | n/a | - | - | - | - | litcoder |
 | 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |

@@ -43,7 +43,7 @@
 | 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | - | max5982 |
 | 03 changdonghyuk (changdonghyuk) | n/a | - | - | - | - | - | max5982 |
 | 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | - | max5982 |
-| 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 05 kangyujin (kangyujin0) | n/a | - | - | - | - | - | max5982 |
 | 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | - | max5982 |
 | 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | - | max5982 |
 | 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | - | max5982 |

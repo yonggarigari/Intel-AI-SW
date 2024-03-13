@@ -37,7 +37,7 @@
 | 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | litcoder |
 | 03 changdonghyuk (abcde) | n/a | - | - | - | - | litcoder |
 | 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | litcoder |
-| 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 05 kangyujin (kangyujin0) | n/a | - | - | - | - | litcoder |
 | 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | litcoder |
 | 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | litcoder |
 | 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | litcoder |

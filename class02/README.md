@@ -42,8 +42,8 @@
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 11 KimYongChul (yonggarigari) | n/a | - | - | - | - | litcoder |
+| 10 KimYongchul (yonggarigari) | n/a | - | - | - | - | litcoder |
+| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |

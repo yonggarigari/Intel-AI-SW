@@ -33,16 +33,16 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 01 KimDarin (KimDarin) | n/a | - | - | - | - | litcoder |
 | 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | litcoder |
-| 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 03 changdonghyuk (abcde) | n/a | - | - | - | - | litcoder |
+| 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | litcoder |
+| 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | litcoder |
+| 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | litcoder |
+| 09 LimSeonWoong (lim9507) | n/a | - | - | - | - | litcoder |
+| 10 KimYongchul (yonggarigari) | n/a | - | - | - | - | litcoder |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |

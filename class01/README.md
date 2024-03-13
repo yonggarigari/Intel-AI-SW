@@ -41,7 +41,7 @@
 |-------------------------------|---------|------|------|------|------|------|----------|
 | 01 KimDarin (KimDarin) | n/a | - | - | - | - | - | max5982 |
 | 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 03 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 03 changdonghyuk (changdonghyuk) | n/a | - | - | - | - | - | max5982 |
 | 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | - | max5982 |

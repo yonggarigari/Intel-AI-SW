@@ -38,6 +38,9 @@ while True:
     elif keyboard_input == '8':
         ctrl.push_actuator(2)
         print("Acuator2")
+        
+    else:
+    	pass
 
 
 ctrl.close()

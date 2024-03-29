@@ -33,16 +33,16 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimDarin (KimDarin) | n/a | - | - | - | - | litcoder |
-| 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | litcoder |
-| 03 changdonghyuk (abcde) | n/a | - | - | - | - | litcoder |
-| 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | litcoder |
-| 05 kangyujin (kangyujin0) | n/a | - | - | - | - | litcoder |
-| 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | litcoder |
-| 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | litcoder |
-| 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | litcoder |
-| 09 LimSeonWoong (lim9507) | n/a | - | - | - | - | litcoder |
-| 10 KimYongchul (yonggarigari) | n/a | - | - | - | - | litcoder |
+| 01 KimDarin (KimDarin) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 03 changdonghyuk (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 05 kangyujin (kangyujin0) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 09 LimSeonWoong (lim9507) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 10 KimYongchul (yonggarigari) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |

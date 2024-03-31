@@ -31,30 +31,15 @@
 
 ### 제출현황
 
-| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
-|-------------------------------|---------|------|------|------|-------|----------|
-| 01 KimDarin (KimDarin) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 02 KimJunYoung (jykim1119) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 03 changdonghyuk (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 04 ShinDongHee (tuningkiwi) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 05 kangyujin (kangyujin0) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 06 Anjonghyeon (jhjjjhhh) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 07 LeeGaYeun (LeeGaYeun) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 08 SongInTae (dlsxo1023) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 09 LimSeonWoong (lim9507) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 10 KimYongchul (yonggarigari) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 24 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 영문이름 (GitHub id)          | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer           |
+|-------------------------------|---------|------|------|------|-------|--------------------|
+| 01 KimDarin (KimDarin)        | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
+| 02 KimJunYoung (jykim1119)    | n/a     | O    | O    | -    | -     | jerry-jaeseong-lee |
+| 03 changdonghyuk (abcde)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| 04 ShinDongHee (tuningkiwi)   | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
+| 05 kangyujin (kangyujin0)     | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
+| 06 Anjonghyeon (jhjjjhhh)     | n/a     | O    | O    | -    | -     | jerry-jaeseong-lee |
+| 07 LeeGaYeun (LeeGaYeun)      | n/a     | O    | O    | -    | -     | jerry-jaeseong-lee |
+| 08 SongInTae (dlsxo1023)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| 09 LimSeonWoong (lim9507)     | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
+| 10 KimYongchul (yonggarigari) | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |

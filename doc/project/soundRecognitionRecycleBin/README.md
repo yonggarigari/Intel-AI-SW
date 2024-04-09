@@ -15,7 +15,7 @@ EcoSort는 혁신적인 음성인식 기술을 활용하여 효율적인 자동 
   | 송인태 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
   | 임선웅 | Industrial design, 사용자의 편의 및 취향을 고려하여 기구의 외관, 형태, 색상 등을 설계한다. |
 * [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
-* [발표자료]()
+* [발표자료](/doc/project/soundRecognitionRecycleBin/Documentations/EcoSortprj_ppt_Draft.pptx)
 
 ## 프로젝트 마일스톤 - Gantt Chart
 

@@ -73,7 +73,7 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: EcoSort - 음성인식 기반 재활용 시스템
+### Team: EcoSort - 소리인식 기반 재활용 시스템
 <프로젝트 요약>
 * Members
   | Name | Role |
@@ -83,5 +83,5 @@ $ find ./ -iname *.bin|xargs ls -l
   | 송인태 | AI modeling, 재활용 소재에 대한 음성 인식 AI를 모델링 한다. |
   | 임선웅 | Industrial design, 사용자의 편의 및 취향을 고려하여 기구의 외관, 형태, 색상 등을 설계한다. |
 * [프로젝트 깃허브 주소](https://github.com/CodeMystero/soundRecognitionRecycleBin)
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+* [발표자료](https://github.com/goodsense/project_aewsome/doc/slide.ppt)
 

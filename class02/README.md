@@ -33,13 +33,13 @@
 
 | 영문이름 (GitHub id)          | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer           |
 |-------------------------------|---------|------|------|------|-------|--------------------|
-| 01 KimDarin (KimDarin)        | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
-| 02 KimJunYoung (jykim1119)    | n/a     | O    | O    | -    | -     | jerry-jaeseong-lee |
-| 03 changdonghyuk (abcde)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
-| 04 ShinDongHee (tuningkiwi)   | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
-| 05 kangyujin (kangyujin0)     | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
-| 06 Anjonghyeon (jhjjjhhh)     | n/a     | O    | O    | -    | -     | jerry-jaeseong-lee |
-| 07 LeeGaYeun (LeeGaYeun)      | n/a     | O    | O    | -    | -     | jerry-jaeseong-lee |
-| 08 SongInTae (dlsxo1023)      | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
-| 09 LimSeonWoong (lim9507)     | n/a     | X    | -    | -    | -     | jerry-jaeseong-lee |
-| 10 KimYongchul (yonggarigari) | n/a     | O    | -    | -    | -     | jerry-jaeseong-lee |
+| 01 KimDarin (KimDarin)        | n/a     | X    | X    | X    | X     | jerry-jaeseong-lee |
+| 02 KimJunYoung (jykim1119)    | n/a     | O    | O    | O    | O     | jerry-jaeseong-lee |
+| 03 changdonghyuk (abcde)      | n/a     | O    | X    | X    | O     | jerry-jaeseong-lee |
+| 04 ShinDongHee (tuningkiwi)   | n/a     | X    | X    | X    | X     | jerry-jaeseong-lee |
+| 05 kangyujin (kangyujin0)     | n/a     | X    | X    | X    | X     | jerry-jaeseong-lee |
+| 06 Anjonghyeon (jhjjjhhh)     | n/a     | O    | O    | X    | X     | jerry-jaeseong-lee |
+| 07 LeeGaYeun (LeeGaYeun)      | n/a     | O    | O    | X    | X     | jerry-jaeseong-lee |
+| 08 SongInTae (dlsxo1023)      | n/a     | O    | O    | O    | O     | jerry-jaeseong-lee |
+| 09 LimSeonWoong (lim9507)     | n/a     | X    | X    | X    | X     | jerry-jaeseong-lee |
+| 10 KimYongchul (yonggarigari) | n/a     | O    | O    | O    | O     | jerry-jaeseong-lee |
